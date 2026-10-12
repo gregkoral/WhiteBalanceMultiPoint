@@ -1,0 +1,85 @@
+PRIVACY POLICY
+White Balance Multi-Point (Android app, package pl.whitebalancemp.app)
+
+Effective date: October 12, 2026
+Developer: Grzegorz Koralewski
+Contact: koralewski.g@gmail.com
+
+
+1. SUMMARY
+
+White Balance Multi-Point does not collect, store on any server, share or
+sell any personal data. All image processing takes place entirely on your
+device. The app contains no advertising, no analytics, no tracking and no
+user accounts.
+
+
+2. IMAGES YOU OPEN
+
+The app only accesses images that you choose yourself using the standard
+Android file picker. It does not scan or read any other files on your
+device.
+
+The selected image is processed locally on your device (white balance,
+brightness equalization, levels and crop). The image is never uploaded,
+transmitted or sent anywhere.
+
+
+3. IMAGES YOU SAVE
+
+When you tap "Save", the app writes a new JPEG file to the Pictures/White
+Balance MP folder on your device. Your original image is never modified or
+deleted. Saved files belong to you and remain on your device until you
+delete them.
+
+
+4. PHOTO METADATA (EXIF)
+
+When saving, the app copies the metadata (EXIF) of the original image into
+the new file, for example the capture date, camera model and exposure
+settings. If the original image contains a GPS location, that location is
+also copied into the saved file. This information stays inside the file on
+your device; the app does not read it for any other purpose and does not
+send it anywhere. Please keep this in mind if you share saved files with
+others.
+
+
+5. DATA STORED ON YOUR DEVICE
+
+To open the file picker in the folder of the last image you used, the app
+stores a single reference (a system link) to that image in its private
+storage on your device. This reference is never transmitted and is removed
+when you uninstall the app or clear the app's data.
+
+
+6. PERMISSIONS AND INTERNET ACCESS
+
+The app does not request any runtime permissions. Access to images is
+granted only for the files you select in the system file picker. The app
+does not send any data over the internet.
+
+
+7. THIRD PARTIES
+
+The app does not use any third-party services for advertising, analytics,
+crash reporting or user tracking. No data is shared with third parties.
+
+
+8. CHILDREN
+
+The app is a general-purpose image editing tool and does not knowingly
+collect any information from anyone, including children under the age
+of 13.
+
+
+9. CHANGES TO THIS POLICY
+
+If this policy changes, the updated version will be published at the same
+location with a new effective date.
+
+
+10. CONTACT
+
+If you have any questions about this privacy policy, please contact:
+Grzegorz Koralewski
+koralewski.g@gmail.com
